@@ -12,6 +12,10 @@ In the second link shared above, the definitions found in the original work but 
 
 You can do the file directory naming as you wish..
 
+![Ekran Alıntısı](https://user-images.githubusercontent.com/39422788/230826958-be689717-4f61-45d8-be3b-0fc5f7b123ce.PNG)
+
+
+
 <hr/>
 
 # :e-mail: Contact
