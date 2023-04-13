@@ -6,6 +6,8 @@ https://user-images.githubusercontent.com/39422788/231752660-c58601ca-4c16-4901-
 
 
 <hr />
+
+
 # :e-mail: Contact
 |***Sefa Demirtaş***|
 |:-------------|
@@ -13,4 +15,6 @@ https://user-images.githubusercontent.com/39422788/231752660-c58601ca-4c16-4901-
 |[Linkedin](https://www.linkedin.com/in/sefa-demirta%C5%9F-86b473230/)|
 |[Patika.dev](https://app.patika.dev/sefad)|
 |sefa.demirtas91@gmail.com|
+
+
 <hr />
