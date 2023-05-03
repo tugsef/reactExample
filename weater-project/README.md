@@ -8,6 +8,8 @@
 ![Ekran görüntüsü 2023-05-03 131653](https://user-images.githubusercontent.com/39422788/235891558-2920b8ac-e637-4b7e-86eb-4be4ad7c54da.png)
 ![Ekran görüntüsü 2023-05-03 131735](https://user-images.githubusercontent.com/39422788/235891566-46b76604-27ef-4abe-9ced-4edcf908b51b.png)
 
+
+# Task
 Sizden genel olarak bir hava durumu uygulaması geliştirmeniz bekleniyor. Türkiye'nin tüm illerinin bir haftalık hava raporunu görüntüleyebilmeliyiz.
 
 Ekran aşağıdaki görseldeki gibi olacaktır.
@@ -24,3 +26,10 @@ Ekran aşağıdaki görseldeki gibi olacaktır.
 - Günlerin listelendiği kartlarda; gün adı, hava durumu görseli(güneşli, yağmurlu, karlı, parçalı bulutlu), en yüksek ve en düşük sıcaklık gösterilmelidir.
 - Bir dropdown aracılığı ile farklı bir şehrin hava raporuna ulaşılabilmelidir.
 
+ # :e-mail: Contact
+|***Sefa Demirtaş***|
+|:-------------|
+|*Java Developer*|
+|[Linkedin](https://www.linkedin.com/in/sefa-demirta%C5%9F-86b473230/)|
+|[Patika.dev](https://app.patika.dev/sefad)|
+|sefa.demirtas91@gmail.com|
