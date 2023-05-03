@@ -20,18 +20,24 @@ function Otel() {
     <div>
       <h2>Otel Details {obj.hello}</h2>
         {loading&&<div>loading...</div>}
-        <table border={2}>
+         <table border={2}>
+        <tbody>
           <tr>
-            <td>Name</td>
-            <td>Type</td>
-            <td>Star</td>
-          </tr>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Star</th>
+        </tr>
+        </tbody>
+        <tbody>
           <tr>
-          <td>{otel.name}</td>
+
+            <td>{otel.name}</td>
             <td>{otel.type}</td>
             <td>{otel.star}</td>
+
           </tr>
-        </table>
+        </tbody>
+      </table>
         <br />
         <br />
 
