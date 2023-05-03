@@ -1,0 +1,80 @@
+.css-166re2f {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    gap: var(--chakra-space-5);
+    flex: 1;
+}
+
+.css-1f371ka {
+  
+   
+    cursor: pointer;
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    
+  
+}
+a {
+    background-color: transparent;
+    color: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+}
+
+.css-idkz9h {
+    border: 0;
+    clip: rect(0, 0, 0, 0);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    padding: 0px;
+    overflow: hidden;
+    white-space: nowrap;
+    position: absolute;
+}
+
+.css-1gqo2ni {
+    margin-left: 10px;
+    width: 2em;
+    height: 2em;
+    fill: #3578E5;
+    font-size: 0.875rem;
+}
+
+.css-idkz9h {
+    border: 0;
+    clip: rect(0, 0, 0, 0);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    padding: 0px;
+    overflow: hidden;
+    white-space: nowrap;
+    position: absolute;
+}
+
+.legal-title {
+    display: inline-block;
+    color: #585d62;
+    font-size: 13px;
+    font-weight: bold;
+}
+.right{
+    display: flex;
+}
+
+.right_1{
+ text-align: center;
+ margin-right: 10px;
+}

@@ -1,0 +1,135 @@
+.rr3bxd {
+    cursor: pointer;
+    margin-bottom: -1px;
+    padding: 0;
+    padding-bottom: 1px;
+}
+
+.R3Y3ec {
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    z-index: 0;
+    background-color: #ACE6F6;
+    border-radius: 15px;
+    padding: 5px;
+    
+}
+
+.wob_dfc {
+    display: inline-block;
+    white-space: normal;
+   
+}
+
+.wob_df {
+   display: inline-block;
+    height: 100px;
+    line-height: 1;
+   margin: 2px;
+    text-align: center;
+    width: 75px;
+    background: #DAF5FF;
+    border-radius: 10px;
+}
+
+.wob_df:hover {
+    background-color: #19A7CE;
+   
+}
+
+.DxhUm {
+    display: inline-block;
+    position: relative;
+}
+
+.uW5pk {
+    height: 48px;
+    margin: 1px 4px 0;
+    width: 48px;
+}
+g-img {
+    height: 100%;
+    display: block;
+}
+
+
+
+.YQ4gaf {
+    display: block;
+    border: 0;
+}
+
+
+
+.wNE31c {
+ 
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 15px;
+
+}
+
+.gNCp2e {
+    color: #202124;
+    display: inline-block;
+    padding-right: 5px;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+
+.ZXCv8e {
+    display: inline-block;
+}
+.QrNVmd {
+    color: #70757a;
+}
+
+
+
+.Z1VzSb {
+    color: #202124;
+    line-height: 10px;
+    padding-top: 7px;
+}
+
+html:not(.zAoYTe) [tabindex] {
+    outline: 0;
+}
+.wob_ds {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+}
+
+
+
+  
+  .desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+  .container {
+    list-style:none;
+    margin: 0;
+    padding: 0;
+  }
+
+
+
+  
+
+  .float {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .float:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+  }
