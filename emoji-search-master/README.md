@@ -1,18 +1,14 @@
 Emoji Search
 ---
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+![Ekran Alıntısı](https://user-images.githubusercontent.com/39422788/236484457-f57003b1-da1d-4332-bd3c-44ac488af880.PNG)
 
 
 
-Install
----
-
-`npm install`
-
-
-
-Usage
----
-
-`npm start`
+# :e-mail: Contact
+|***Sefa Demirtaş***|
+|:-------------|
+|*Java Developer*|
+|[Linkedin](https://www.linkedin.com/in/sefa-demirta%C5%9F-86b473230/)|
+|[Patika.dev](https://app.patika.dev/sefad)|
+|sefa.demirtas91@gmail.com|
