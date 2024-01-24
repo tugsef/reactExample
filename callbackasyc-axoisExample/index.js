@@ -1,3 +1,3 @@
-import data from "./app.js";
+import { getApi } from "./app.js";
 
-data(1)
+ console.log(await getApi(2));
